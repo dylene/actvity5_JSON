@@ -1,0 +1,14 @@
+{
+    "student": [
+        {
+            "name": "Darunday, Dylene R.",
+            "age": 21,
+            "favoriteQoutes": "Love is being stupid together.",
+        },
+        {
+           "classSection": "BSIT 3C",
+           "classCode": "T2390",
+           "buksUEmail": "1901102087@student.buksu.edu.ph"
+        }
+     ]
+}
